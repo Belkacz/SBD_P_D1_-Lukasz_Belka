@@ -1,4 +1,4 @@
-# SBD_P_D1_-ukasz_Belka
+# SBD_P_D1_-Łukasz_Belka
 Projekt z baz danych
 
 Łukasz Belka
